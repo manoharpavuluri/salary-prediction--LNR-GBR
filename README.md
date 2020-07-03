@@ -1,2 +1,2 @@
-# salary-prediction--Linear Regresssion Based
+# salary-prediction -Linear Regresssion Based
 Linear Regression based
