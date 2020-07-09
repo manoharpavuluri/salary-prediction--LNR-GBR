@@ -34,3 +34,27 @@ Evaluated the correlation to see which featured need to be considered.
 ![alt tex](https://github.com/manoharpavuluri/salary-prediction--LNR-GBR/blob/master/pictures/jobtype.png)
 
 ![alt tex](https://github.com/manoharpavuluri/salary-prediction--LNR-GBR/blob/master/pictures/major.png)
+
+![alt tex](https://github.com/manoharpavuluri/salary-prediction--LNR-GBR/blob/master/pictures/major.png)
+
+![alt tex](https://github.com/manoharpavuluri/salary-prediction--LNR-GBR/blob/master/pictures/industry.png)
+
+From the Correlation, Company ID  doenst have impact on Salary, so will be ignored.
+
+## Model
+Evaluated 2 models - Linear Regression and Gradient Boosting Regresso
+
+![alt tex](https://github.com/manoharpavuluri/salary-prediction--LNR-GBR/blob/master/pictures/LR_MSE.png)
+
+![alt tex](https://github.com/manoharpavuluri/salary-prediction--LNR-GBR/blob/master/pictures/gbr_MSE.pngg)
+
+## Conclussion
+From MSE numbers, GBR seems to be better model.
+
+Used GBR to predict final Salaries.
+
+![alt tex](https://github.com/manoharpavuluri/salary-prediction--LNR-GBR/blob/master/pictures/Predicated_sal.png)
+
+Using GBR, evaluated the Features to see which has more impact
+
+![alt tex](https://github.com/manoharpavuluri/salary-prediction--LNR-GBR/blob/master/pictures/feature_evaluation.png)
