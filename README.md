@@ -46,17 +46,21 @@ Evaluated 2 models - Linear Regression and Gradient Boosting Regressor
 
 #### Linear Regression
 Predicted VS Real Plot
+
 ![alt tex](https://github.com/manoharpavuluri/salary-prediction--LNR-GBR/blob/master/pictures/lr_prediction_plot.png)
 
 MSE Evaluation
+
 ![alt tex](https://github.com/manoharpavuluri/salary-prediction--LNR-GBR/blob/master/pictures/LR_MSE.png)
 
 
 #### Gradient Boosting Regressor
 Predicted VS Real Plot
+
 ![alt tex](https://github.com/manoharpavuluri/salary-prediction--LNR-GBR/blob/master/pictures/gbr_prediction_plot.png)
 
 MSE Evaluation
+
 ![alt tex](https://github.com/manoharpavuluri/salary-prediction--LNR-GBR/blob/master/pictures/gbr_MSE.png)
 
 ## Conclussion
