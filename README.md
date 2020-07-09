@@ -46,7 +46,7 @@ Evaluated 2 models - Linear Regression and Gradient Boosting Regresso
 
 ![alt tex](https://github.com/manoharpavuluri/salary-prediction--LNR-GBR/blob/master/pictures/LR_MSE.png)
 
-![alt tex](https://github.com/manoharpavuluri/salary-prediction--LNR-GBR/blob/master/pictures/gbr_MSE.pngg)
+![alt tex](https://github.com/manoharpavuluri/salary-prediction--LNR-GBR/blob/master/pictures/gbr_MSE.png)
 
 ## Conclussion
 From MSE numbers, GBR seems to be better model.
