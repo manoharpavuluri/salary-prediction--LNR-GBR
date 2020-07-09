@@ -1,4 +1,4 @@
-# Salary Prediction using Linear Regression and Gradient Boostong Regressor
+# Salary Prediction using Linear Regression and Gradient Boosting Regressor
 
 ## Problem - 
 Predict salaray based on multiple features.
