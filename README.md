@@ -66,13 +66,9 @@ MSE Evaluation
 ## Conclussion
 Although Predicted VS Real plots looks same, from further evaluations MSE numbers, GBR seems to be better model.
 
-Used GBR to predict final Salaries.
-
-![alt tex](https://github.com/manoharpavuluri/salary-prediction--LNR-GBR/blob/master/pictures/Predicated_sal.png)
-
 Using GBR, evaluated the Features to see which has more impact
 
 ![alt tex](https://github.com/manoharpavuluri/salary-prediction--LNR-GBR/blob/master/pictures/feature_evaluation.png)
 
-## And Finally the Predicted Salaries 
+## And Finally the Predicted Salaries using GBR Model
 ![alt tex](https://github.com/manoharpavuluri/salary-prediction--LNR-GBR/blob/master/pictures/Predicated_sal.png)
